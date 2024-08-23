@@ -1,7 +1,4 @@
 ## Projects
-![image](https://github.com/user-attachments/assets/7546b924-81af-41af-b7de-5579ed71180f)
-![image](https://github.com/user-attachments/assets/050d95a4-7eda-4c86-9784-897675b8aebe)
-![image](https://github.com/user-attachments/assets/4a61405e-0b24-4f07-84cc-f1d7a98afa6e)
 
 ### Interactive Visual Novel Game "Alphabet Murders"
 
@@ -9,7 +6,7 @@
 Developed an interactive mystery visual novel game inspired by Japanese detective fiction, using HTML5, CSS3, and JavaScript. The game was based on the novel "Alphabet Murders" by Seiichiro Oyama and aimed to provide an immersive storytelling experience that explores themes of life and death.
 
 **Time Period:**  
-Summer 2021
+Aug 2022 - Sept 2022
 
 **Tools:**  
 HTML5, CSS3, JavaScript, Visual Studio Code, Google Chrome, jQuery, Bootstrap
