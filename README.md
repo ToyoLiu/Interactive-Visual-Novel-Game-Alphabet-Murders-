@@ -1,4 +1,7 @@
 ## Projects
+![image](https://github.com/user-attachments/assets/7546b924-81af-41af-b7de-5579ed71180f)
+![image](https://github.com/user-attachments/assets/050d95a4-7eda-4c86-9784-897675b8aebe)
+![image](https://github.com/user-attachments/assets/4a61405e-0b24-4f07-84cc-f1d7a98afa6e)
 
 ### Interactive Visual Novel Game "Alphabet Murders"
 
